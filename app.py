@@ -40,10 +40,12 @@ st.markdown("""
 }
 
 .skill-box {
-    background-color: #1f2937;
+    background-color: #f1f5f9;
+    color: #111827;
     padding: 12px 16px;
     border-radius: 10px;
     margin: 5px 0;
+    border: 1px solid #e2e8f0;
 }
 
 .metric-card {
