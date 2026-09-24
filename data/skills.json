@@ -1,0 +1,60 @@
+{
+    "programming": [
+        "python",
+        "java",
+        "c++",
+        "c",
+        "javascript",
+        "typescript"
+    ],
+    "data": [
+        "sql",
+        "mysql",
+        "postgresql",
+        "pandas",
+        "numpy",
+        "excel",
+        "power bi",
+        "tableau",
+        "matplotlib",
+        "seaborn"
+    ],
+    "ai_ml": [
+        "machine learning",
+        "deep learning",
+        "natural language processing",
+        "nlp",
+        "scikit-learn",
+        "tensorflow",
+        "pytorch",
+        "opencv"
+    ],
+    "web": [
+        "html",
+        "css",
+        "react",
+        "node.js",
+        "flask",
+        "django",
+        "fastapi",
+        "streamlit"
+    ],
+    "cloud_devops": [
+        "aws",
+        "azure",
+        "gcp",
+        "docker",
+        "kubernetes",
+        "git",
+        "github",
+        "linux"
+    ],
+    "ai_tools": [
+        "llm",
+        "rag",
+        "langchain",
+        "faiss",
+        "chromadb",
+        "openai"
+    ]
+}
